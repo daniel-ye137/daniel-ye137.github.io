@@ -86,17 +86,20 @@
         <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
         <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}
         </h4>
-        <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
-        <p class="resume-item-copy" itemprop="description">
-        <ul class="resume-item-list">
-          {% for award in education.awards %}
-          <li>{{ award.award }}</li>
-          {% endfor %}
-        </ul>
-        </h5>
+        <<<<<<< HEAD <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
+          =======
+          <h5 class="resume-item-details gpa" itemprop="description">{{ education.gpa }}</h5>
+          >>>>>>> 8705cbc1d3f11b8d56f0f4b79380039680e926d5
+          <p class="resume-item-copy" itemprop="description">
+          <ul class="resume-item-list">
+            {% for award in education.awards %}
+            <li>{{ award.award }}</li>
+            {% endfor %}
+          </ul>
+          </h5>
 
 
-        <p class="resume-item-copy">{{ education.summary }}</p>
+          <p class="resume-item-copy">{{ education.summary }}</p>
       </div>
       {% endfor %}
     </section>
