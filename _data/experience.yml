@@ -1,18 +1,25 @@
 #  Jobs
 # Software Bootcamp
-- company: General Assembly
-  position: Cohort
-  duration: 2017
-  summary: Worked with other students and spearheaded other team projects working with collaborating tools like trello and GitHub. We also met project deadlines and presented each project to our fellows and instructors.
+- company: NLMatics
+  position: Software Engineering Intern
+  duration: June 2020 - August 2020
+  summary: <ul class="resume-item-list"><li> Implemented a Python application to parse PDF files and identify key structures such as headings, tables, and lists</li><li>
+Developed a REST API for calculating sentence embeddings using Golang and gRPC, improving performance times  by 30x and semantic representation quality by 3%</li><li>
+Ran experiments comparing multiple choice question-answering models using Python and Pytorch</li></ul>
+
 
 #  Business Owner / Operator
-- company: Troy David Cook Photography
-  position: Owner | Photographer
-  duration: 2009 - Present
-  summary:  Founded a photography business with a focus on fine art and architecture. After moving to New York City, I changed my focus toward actor's headshots and product photography.	<ul class="resume-item-list"><li>Designed and distributed all marketing and advertising materials.</li><li>In charge of all client facing tasks.</li><li>Responsible for all photography and post processing.</li></ul>
+- company: Corning Inc.
+  position: IT Manufacturing Intern
+  duration: May 2019 - August 2019
+  summary:  <ul class="resume-item-list"><li>Developed a full-stack application to automate data collection from manufacturing equipment and model optimal performance parameters using C#, SQL, .NET, and WPF, optimized systems that increase premium product yield by over 2% and revenue by over $2 million/year.</li><li>
+Created a clear user interface allowing engineers to better monitor production status, saving multiple engineers over 10 hours of work per week.</li><li>
+Presented results to over 100 plant engineering, administration, and IT staff. </li></ul>
+
 
 # Restaurant Management
-- company: FishTag Restaurant
-  position: Management
-  duration: Novemver 2014 - 2017
-  summary: Oversaw employee work in front of house and back of house. Kept eyes on sales targets and kept accounts through spreadsheets for sales and deliveries.
+- company: Cornell Computing and Information Sciences
+  position: Teaching Consultant
+  duration: August 2019 - Present
+  summary: <ul class="resume-item-list"><li> Wrote and graded course materials, answered questions online for classes of over 300 students</li><li>
+Tutored and offered assistance to students during office hours held twice a week </li></ul>
