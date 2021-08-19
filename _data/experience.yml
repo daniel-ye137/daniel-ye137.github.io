@@ -3,8 +3,7 @@
 - company: MongoDB
   position: Software Engineering Intern
   duration: June 2021 - August 2021
-  summary:  <ul class="resume-item-list"><li>Implemented features for a SQL to MongoDB Query Language (MQL) transpiler written in Rust.</li><li>Extended supported SQL statements fortranslation API allowing forincreased compatibility with BI tools,reaching
-100 % coverage of SQL-92 standard.</li><li>Developed constant-folding query optimization forthe SQL to MQL transpiler using Visitor Design Pattern</li></ul>
+  summary:  <ul class="resume-item-list"><li>Implemented features for a SQL to MongoDB Query Language (MQL) transpiler written in Rust.</li><li>Extended supported SQL statements for translation API allowing forincreased compatibility with BI tools, reaching 100 % coverage of SQL-92 standard.</li><li>Developed constant-folding query optimization for the SQL to MQL transpiler using Visitor Design Pattern</li></ul>
 
 
 - company: NLMatics
