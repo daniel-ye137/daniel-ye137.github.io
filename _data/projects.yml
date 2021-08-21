@@ -1,8 +1,0 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
-
-# C# Wine Ought
-- project: Critter World
-  role: Developer
-  # url: "https://shielded-escarpment-89075.herokuapp.com/"
-  description: <ul class="resume-item-list"><li>Worked in a team of three to create a JavaFX application consisting of a REST API and a GUI client allowing multiple users to view and manipulate a game simulating the behavior of many ‘critters’.</li><li>Wrote an abstract syntax tree, parser, and interpreter  to evaluate critter behavior </li><li>Created server and client functionality using Java, Spark, HTTP, and JSON.</li></ul>
