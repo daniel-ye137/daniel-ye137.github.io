@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fce456b0efc550ed4b825ea731c6d969",
+    "revision": "293619d2c0c9b8545a8af6075ffad641",
     "url": "/daniel-ye137.github.io/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daniel-ye137.github.io/static/css/4.a8329f31.chunk.css"
   },
   {
-    "revision": "7709ac41c8b4a74540df",
+    "revision": "f0bc9ec7cb2dff9d9cf4",
     "url": "/daniel-ye137.github.io/static/css/main.220d8d92.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daniel-ye137.github.io/static/js/4.9bb17fda.chunk.js"
   },
   {
-    "revision": "7709ac41c8b4a74540df",
-    "url": "/daniel-ye137.github.io/static/js/main.f668ea0a.chunk.js"
+    "revision": "f0bc9ec7cb2dff9d9cf4",
+    "url": "/daniel-ye137.github.io/static/js/main.eb00c6f9.chunk.js"
   },
   {
     "revision": "c9e2829ba9ac38157e44",
