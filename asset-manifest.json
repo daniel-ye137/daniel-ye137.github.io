@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/daniel-ye137.github.io/static/css/main.220d8d92.chunk.css",
+    "main.js": "/daniel-ye137.github.io/static/js/main.f668ea0a.chunk.js",
+    "main.js.map": "/daniel-ye137.github.io/static/js/main.f668ea0a.chunk.js.map",
+    "runtime-main.js": "/daniel-ye137.github.io/static/js/runtime-main.60d3977a.js",
+    "runtime-main.js.map": "/daniel-ye137.github.io/static/js/runtime-main.60d3977a.js.map",
+    "static/js/2.c43fb2f2.chunk.js": "/daniel-ye137.github.io/static/js/2.c43fb2f2.chunk.js",
+    "static/js/2.c43fb2f2.chunk.js.map": "/daniel-ye137.github.io/static/js/2.c43fb2f2.chunk.js.map",
+    "static/css/3.25727338.chunk.css": "/daniel-ye137.github.io/static/css/3.25727338.chunk.css",
+    "static/js/3.b94cadb5.chunk.js": "/daniel-ye137.github.io/static/js/3.b94cadb5.chunk.js",
+    "static/js/3.b94cadb5.chunk.js.map": "/daniel-ye137.github.io/static/js/3.b94cadb5.chunk.js.map",
+    "static/css/4.a8329f31.chunk.css": "/daniel-ye137.github.io/static/css/4.a8329f31.chunk.css",
+    "static/js/4.9bb17fda.chunk.js": "/daniel-ye137.github.io/static/js/4.9bb17fda.chunk.js",
+    "static/js/4.9bb17fda.chunk.js.map": "/daniel-ye137.github.io/static/js/4.9bb17fda.chunk.js.map",
+    "index.html": "/daniel-ye137.github.io/index.html",
+    "precache-manifest.716f2b51b464f143282515fb965ce9b6.js": "/daniel-ye137.github.io/precache-manifest.716f2b51b464f143282515fb965ce9b6.js",
+    "service-worker.js": "/daniel-ye137.github.io/service-worker.js",
+    "static/css/3.25727338.chunk.css.map": "/daniel-ye137.github.io/static/css/3.25727338.chunk.css.map",
+    "static/css/4.a8329f31.chunk.css.map": "/daniel-ye137.github.io/static/css/4.a8329f31.chunk.css.map",
+    "static/css/main.220d8d92.chunk.css.map": "/daniel-ye137.github.io/static/css/main.220d8d92.chunk.css.map",
+    "static/js/2.c43fb2f2.chunk.js.LICENSE.txt": "/daniel-ye137.github.io/static/js/2.c43fb2f2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/daniel-ye137.github.io/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMailDark.svg": "/daniel-ye137.github.io/static/media/contactMailDark.51cf7192.svg",
+    "static/media/cornellLogo.png": "/daniel-ye137.github.io/static/media/cornellLogo.99768ee0.png",
+    "static/media/corningLogo.png": "/daniel-ye137.github.io/static/media/corningLogo.b17e4ef7.png",
+    "static/media/developerActivity.svg": "/daniel-ye137.github.io/static/media/developerActivity.59389695.svg",
+    "static/media/manOnTable.svg": "/daniel-ye137.github.io/static/media/manOnTable.52be3144.svg",
+    "static/media/nlmaticsLogo.png": "/daniel-ye137.github.io/static/media/nlmaticsLogo.a7e2e4b2.png",
+    "static/media/skill.svg": "/daniel-ye137.github.io/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/daniel-ye137.github.io/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60d3977a.js",
+    "static/js/2.c43fb2f2.chunk.js",
+    "static/css/main.220d8d92.chunk.css",
+    "static/js/main.f668ea0a.chunk.js"
+  ]
+}
